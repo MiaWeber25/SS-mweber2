@@ -3,7 +3,7 @@ Coursework for CSCI 420-Software Security
 
 | Name | Value |
 |:---|:---|
-| **Course** | CSCI410 - Software Security |
+| **Course** | CSCI420 - Software Security |
 | **Semester** | Spring 2023 |
 | **Student** | Mia Weber |
 | **Mav Username**            | mweber2 |

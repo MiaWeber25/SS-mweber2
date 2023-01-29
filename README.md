@@ -1,5 +1,15 @@
 # SS-mweber2
 Coursework for CSCI 420-Software Security 
+
+| Name | Value |
+|:---|:---|
+| **Course** | CSCI410 - Software Security |
+| **Semester** | Spring 2023 |
+| **Student** | Mia Weber |
+| **Mav Username**            | mweber2 |
+| **GitHub Username**         | MiaWeber25 |
+| **Repository**          | https://github.com/MiaWeber25/SS-mweber2 |
+
 ## Assignments
 
 ### Assignment #0

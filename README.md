@@ -34,4 +34,4 @@ Coursework for CSCI 420-Software Security
 | Status | Done |
 | Location | https://github.com/MiaWeber25/SS-mweber2/tree/main/assignments/linuxFundamentals |
 | Self Grade | 100/100 |
-| Notes | completed all the requirements |
+| Notes | completed all the requirements and created a report |

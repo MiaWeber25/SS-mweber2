@@ -32,6 +32,6 @@ Coursework for CSCI 420-Software Security
 | Description | Complete the Linux Fundamentals course on TryHackMe |
 | Due Date | 06-Feb-2023 |
 | Status | Done |
-| Location | https://github.com/MiaWeber25/SS-mweber2/tree/main/assignments/linuxFundamentals |
+| Location | https://github.com/MiaWeber25/SS-mweber2/tree/main/assignments/LinuxFundamentals |
 | Self Grade | 100/100 |
 | Notes | completed all the requirements and created a report |

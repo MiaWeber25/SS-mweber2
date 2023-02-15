@@ -11,3 +11,5 @@
 myIP = &(echo hostname -I | out -f1 -d' ')
 echo sudo nmap -sT -p- $myIP 
 echo sudo nmap -sU -p- $myIP
+
+#this is a comment to push

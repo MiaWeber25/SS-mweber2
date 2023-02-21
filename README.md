@@ -21,8 +21,8 @@ Coursework for CSCI 420-Software Security
 | Due Date | 20-Feb-2023 |
 | Status | Done |
 | Location | https://github.com/MiaWeber25/SS-mweber2/tree/main/assignments/bashScript |
-| Self Grade |  |
-| Notes | cron is exhibiting erratic behavior- look into this more |
+| Self Grade | 100/100 |
+| Notes | Completed all requirements & wrote cron jobs |
 
 ### Assignment #1
 

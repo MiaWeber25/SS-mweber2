@@ -1,4 +1,5 @@
-#! /bin/bash 
+#!/bin/bash 
+
 # By: Mia Weber 02/20/2023 
 # Script to check open ports against list of correct ports to be open. Based on user provided flags will kill processes and log to provided file. 
 
@@ -18,7 +19,7 @@ DATA=$( echo "${PORT}" | cut -d"," -f1)
 DATA2=$( echo "${PORT}" | cut -d"," -f2)
 
 # Check to see if the port # is listed in the compare file. Add port info to couldKill array if not listed in file.
-if echo "$DATA" | grep -qf - $compareFile
+if echo "$DATA" | grep -qf - /tmp/$compareFile
 then
 	echo "IN THE FILE- PROTECT!" >> /dev/null 
 else 
@@ -52,7 +53,7 @@ case "$OPTION" in
 		# Logging command line flag -> log the correct info to the provided log file
 		logFile="$OPTARG"
 		#chmod 666 /tmp/$logFile
-		#tail -n5 /var/log/$logFile > /var/log/test.new mv /var/log/test.new /var/log/$logFile
+		#tail -n5 /tmp/$logFile > /tmp/test.new mv /tmp/test.new /tmp/$logFile
 		echo "*****new entry*****" >> /tmp/$logFile
 			echo "OPEN PORTS: ${MAPFILE[@]}" >> /tmp/$logFile
 			echo "ELIGIBLE PORTS TO KILL: ${couldKill[@]}" >> /tmp/$logFile

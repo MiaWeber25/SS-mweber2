@@ -16,7 +16,7 @@ Coursework for CSCI 420-Software Security
 
 | Name | Value |
 | :--- | :--- |
-| Name | SS-A2 - Basic Programming using Python and C++ |
+| Name | SS-A3 - Basic Programming using Python and C++ |
 | Description | Solve the kattis problem fizzbuzz using Python and C++ |
 | Due Date | 27-Feb-2023 |
 | Status | Done |

@@ -11,6 +11,18 @@ Coursework for CSCI 420-Software Security
 | **Repository**          | https://github.com/MiaWeber25/SS-mweber2 |
 
 ## Assignments
+https://github.com/MiaWeber25/SS-mweber2/tree/main/assignments/programming/cpp/fizzbuzz
+### Assignment #3
+
+| Name | Value |
+| :--- | :--- |
+| Name | SS-A2 - Basic Programming using Python and C++ |
+| Description | Solve the kattis problem fizzbuzz using Python and C++ |
+| Due Date | 27-Feb-2023 |
+| Status | Done |
+| Location | https://github.com/MiaWeber25/SS-mweber2/tree/main/assignments/programming |
+| Self Grade | 100/100 |
+| Notes | Completed all requirements, all test cases passed, and kattis accepted solution |
 
 ### Assignment #2
 

@@ -11,7 +11,7 @@ Coursework for CSCI 420-Software Security
 | **Repository**          | https://github.com/MiaWeber25/SS-mweber2 |
 
 ## Assignments
-https://github.com/MiaWeber25/SS-mweber2/tree/main/assignments/programming/cpp/fizzbuzz
+
 ### Assignment #3
 
 | Name | Value |

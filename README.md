@@ -12,6 +12,18 @@ Coursework for CSCI 420-Software Security
 
 ## Assignments
 
+### Assignment #4
+
+| Name | Value |
+| :--- | :--- |
+| Name | SS-A4 - Vulnerability Scanning and Penetration Testing |
+| Description | Compelete Metaploit courses and pen test on Metasploitable2 using Kali Linux |
+| Due Date | 15-March-2023 |
+| Status | Done |
+| Location | https://github.com/MiaWeber25/SS-mweber2/tree/main/assignments/penTest |
+| Self Grade | 100/100 |
+| Notes | Completed all Metasploit courses and carried out vulnerability scanning and pen testing to the best of my ability on Metasploitable2 |
+
 ### Assignment #3
 
 | Name | Value |

@@ -12,6 +12,18 @@ Coursework for CSCI 420-Software Security
 
 ## Assignments
 
+### Assignment #5
+
+| Name | Value |
+| :--- | :--- |
+| Name | SS-A5 - Reverse Engineering |
+| Description | Reverse engineer the file to find the passwords and modify the binary to execute a shell |
+| Due Date | 22-March-2023 |
+| Status | Partially Complete |
+| Location | https://github.com/MiaWeber25/SS-mweber2/tree/main/assignments/reverseEng |
+| Self Grade | 50/100 |
+| Notes | Had to borrow a computer to complete this assignment. Due to time constraints was unable to complete entire assignment. |
+
 ### Assignment #4
 
 | Name | Value |

@@ -10,7 +10,7 @@ Coursework for CSCI 420-Software Security
 | **GitHub Username**         | MiaWeber25 |
 | **Repository**          | https://github.com/MiaWeber25/SS-mweber2 |
 
-### Final Assignment
+### Final
 
 | Name | Value |
 | :--- | :--- |

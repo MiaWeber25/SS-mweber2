@@ -10,6 +10,18 @@ Coursework for CSCI 420-Software Security
 | **GitHub Username**         | MiaWeber25 |
 | **Repository**          | https://github.com/MiaWeber25/SS-mweber2 |
 
+### Final Assignment
+
+| Name | Value |
+| :--- | :--- |
+| Name | SS-Final - NCAE CyberGames and NUARI Tabletop Exercise |
+| Description | Participate in the NCAE CyberGames Competition and the NUARI Tabletop Excerise and write reports |
+| Due Date | 17-May-2023 |
+| Status | Done |
+| Location | https://github.com/MiaWeber25/SS-mweber2/tree/main/final |
+| Self Grade | 100/100 |
+| Notes | Participated in both events and wrote complete reports that met requirements. |
+
 ## Assignments
 
 ### Assignment #5

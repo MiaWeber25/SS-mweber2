@@ -24,6 +24,18 @@ Coursework for CSCI 420-Software Security
 
 ## Assignments
 
+### Assignment #6
+
+| Name | Value |
+| :--- | :--- |
+| Name | SS-A6 - Stack Overflow Manual |
+| Description | Manual Stack Overflow Detection, Exploration, and Mitigation |
+| Due Date | 07-April-2023 |
+| Status | Done |
+| Location | https://github.com/MiaWeber25/SS-mweber2/tree/main/assignments/stackoverflow |
+| Self Grade | 100/100 |
+| Notes | Completed all requirements and patched the vulnerability. Completed on 04/12/2023. |
+
 ### Assignment #5
 
 | Name | Value |

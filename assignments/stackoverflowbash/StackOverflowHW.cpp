@@ -1,4 +1,4 @@
-// Stack overflow Assignment -> VULNERABILITY PATCHED
+// Stack overflow Assignment
 #include <stdio.h>
 #include <string.h>
 #include <sys/types.h>
@@ -16,7 +16,7 @@ void give_shell()
   system("/bin/sh");
 }
 
-char *mgets(char *dst) // could also implement a counter in this function that stops when BUFSIZE is reached
+char *mgets(char *dst)
 {
   char *ptr = dst;
   int ch;
@@ -24,7 +24,7 @@ char *mgets(char *dst) // could also implement a counter in this function that s
   while ((ch = getchar()) && (ch == ' ' or ch == '\t'))
     ;
 
-  if ((ch == '\n') or (ch == EOF))
+  if (ch == '\n')
   {
     *ptr = '\0';
     return dst;
@@ -32,11 +32,11 @@ char *mgets(char *dst) // could also implement a counter in this function that s
   else
     *ptr = ch;
 
-  /* now read the rest until \n or EOF */
+  /* now read the rest until \n */
   while (true)
   {
     ch = getchar();
-    if (ch == '\n' or ch == EOF)
+    if (ch == '\n')
       break;
     *(++ptr) = ch;
   }
@@ -49,12 +49,10 @@ void bad()
   char buffer[BUFSIZE];
   printf("buffer is at %p\n", buffer);
   cout << "Give me some text: ";
-  fflush(stdout); // stream is open after this call
-
-  cin.getline(buffer, 300); // I can call getline instead of mgets to cut off the input stream when 300 bytes is reached
-  // mgets(buffer);
-  cout << "Acknowledged: " << buffer << " with length " << strlen(buffer) << endl;
+  fflush(stdout);
+  mgets(buffer); // similar to C's gets();
   //gets(buffer); // depricated
+  cout << "Acknowledged: " << buffer << " with length " << strlen(buffer) << endl;
 }
 
 int main(int argc, char *argv[])

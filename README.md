@@ -22,7 +22,20 @@ Coursework for CSCI 420-Software Security
 | Self Grade | 100/100 |
 | Notes | Participated in both events and wrote complete reports that met requirements. |
 
-## Assignments
+## Assignments 
+
+### Assignment #7
+
+| Name | Value |
+| :--- | :--- |
+| Name | SS-A7 - Stack Overflow Bash Script |
+| Description | Stack Overflow Exploration using Bash and Mitigation |
+| Due Date | 12-April-2023 |
+| Status | Done |
+| Location | https://github.com/MiaWeber25/SS-mweber2/tree/main/assignments/stackoverflowbash |
+| Self Grade | 100/100 |
+| Notes | Completed all requirements and patched the vulnerability. Completed on 04/14/2023. |
+
 
 ### Assignment #6
 

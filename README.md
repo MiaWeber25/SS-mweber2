@@ -24,6 +24,18 @@ Coursework for CSCI 420-Software Security
 
 ## Assignments 
 
+### Assignment #8
+
+| Name | Value |
+| :--- | :--- |
+| Name | SS-A8 - Stack Overflow Python Script |
+| Description | Stack Overflow Exploration using Python Script |
+| Due Date | 19-April-2023 |
+| Status | Done |
+| Location | https://github.com/MiaWeber25/SS-mweber2/tree/main/assignments/stackoverflowpython |
+| Self Grade | 100/100 |
+| Notes | Completed all requirements and patched the vulnerability. Completed on 04/21/2023. |
+
 ### Assignment #7
 
 | Name | Value |

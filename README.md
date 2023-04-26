@@ -24,6 +24,18 @@ Coursework for CSCI 420-Software Security
 
 ## Assignments 
 
+### Assignment #9
+
+| Name | Value |
+| :--- | :--- |
+| Name | SS-A9 - Capture The Flag (CTF) |
+| Description | Complete CTF tutorials and exercises. |
+| Due Date | 03-May-2023 |
+| Status | Done |
+| Location | https://github.com/MiaWeber25/SS-mweber2/tree/main/assignments/CTF |
+| Self Grade | 100/100 |
+| Notes | Completed all requirements and found the flags. Completed on 04/26/2023. |
+
 ### Assignment #8
 
 | Name | Value |
